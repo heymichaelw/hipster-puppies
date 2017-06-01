@@ -17,16 +17,16 @@
 
 header {
   position: relative;
-  background: url(../img/header-background.jpg) #ae8a4e;
+  background: url(https://www.rover.com/blog/wp-content/uploads/2014/09/hipster-dog-scarf-683x540.jpg) #ae8a4e;
   background-size: cover;
 }
 .logo {
   position: absolute;
   top: 20%;
-  right: 20%;
+  right: 19%;
   width: 215px;
   height: 265px;
-  background-color: #fff;
+  background-color: black;
 
   -webkit-mask-image: url(../img/logo.png);
           mask-image: url(../img/logo.png);
@@ -39,14 +39,14 @@ h1 {
   font-weight: normal;
   margin: 0;
   padding: 166px 0 55px 0;
-  color: #fff;
-  text-shadow: 3px 3px 4px rgba(0,0,0,.90);
+  color: black;
+  text-shadow: 3px 3px 4px rgba(255, 255, 255, .90);
 }
 .subheader-msg {
   font-family: 'Oleo Script', cursive;
   padding: 55px 0 200px 0;
-  color: #fff;
-  text-shadow: 2px 2px 3px rgba(0,0,0,.90);
+  color: black;
+  text-shadow: 2px 2px 3px rgba(255, 255, 255, .90);
 }
 .divider {
   display: block;
