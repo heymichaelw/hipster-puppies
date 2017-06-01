@@ -80,13 +80,13 @@ h1 {
   text-align: center;
 }
 #left-img {
-  background-image: url(../img/left-img.jpg);
+  background-image: url("http://sprudge.com/wp-content/uploads/2013/10/hipster_puppies.jpg");
 }
 #middle-img {
-  background-image: url(../img/middle-img.jpg);
+  background-image: url("http://static.boredpanda.com/blog/wp-content/uploads/2016/02/Meet-Toby-LittleDude-Instagrams-Most-Adorable-Hipster-Pup30__880.jpg");
 }
 #right-img {
-  background-image: url(../img/right-img.jpg);
+  background-image: url("http://theilovedogssite.com/wp-content/uploads/2014/07/0231.jpg");
 }
 .callout-msg,
 .contact-msg,
